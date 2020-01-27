@@ -1,0 +1,51 @@
+<template>
+  <div class="container">
+    <h1>תוכנית השותפים של קבוצת ביסקיטס טכנולוגיות בע"מ</h1>
+    <p>
+      <span>סוכני ביטוח, רואי חשבון - לאלו מכם אשר מעניקים שירותי תפעול פנסיוני עבור לקוחותכים, לאלו שמציעים שירות אקסטרה ומעל למצופה, לאלו מכם שרוצים לחסוך בזמן וכסף ​</span>
+    </p>
+    <p>עם תחילת הרגולציה בדבר הפרשות פנסיונית בממשק אחיד, נוצרו לרואי החשבון וסוכני הביטוח בעיות אחדות. העיקרית שבניהם הינה משאב הזמן היקר שהנך משקיע עבור כל לקוח המקבל את שירותך. אנו בביסקיט מודעים לעבודה הסיזיפית שמושקעת ומתבצעת על יידך ללא תגמול. שירותי הסליקה הפנסיונית שהנך מעניק ללקוחותיך יכולים בקלות להתבצע דרכנו</p>
+    <div class="box">
+      <img
+        src="data:image/png;base64,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"
+        alt
+      />
+      <p>לרשותך יעמוד מנהל תיק אישי ומקצועי, אשר ילווה אותך ואת לקוחותיך בכל הקשור לתהליך התפעול הפנסיוני, בכל תיקון הנדרש בפוליסות העובדים, או לחלופין יבצע את התיקונים הנדרשים באופן הדיווח על פי תנאי הרגולציה. אנו נעבוד בשיתוף פעולה מלא וניצור משולש תקשורת שקוף, בינך, לבין הלקוח ובין חברות הביטוח</p>
+    </div>
+    <p>
+      כך תוכל להציע ערך מוסף נוסף ללקוחותיך בשל העובדה שחברה חיצונית ומקצועית בתחום מנהלת עבורך את כל פעילות הסליקה.
+      אנו, כגורם מתפעל איכותי, מנוסה ובקיא בהוראות הרגולציה, נוכל בקלות לחסוך לך משאבים יקרים.
+      הצטרף לתוכנית השותפים של ביסקיטס.
+    </p>
+  </div>
+</template>
+
+<style lang="scss" scoped>
+.container {
+  height: 100vh;
+  width: 70%;
+  margin: 0 auto;
+  text-align: right;
+  line-height: 1.5rem;
+  padding: 2rem;
+  h1 {
+    text-align: center;
+  }
+  p {
+    font-size: 1.4rem;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  span {
+    line-height: 1.5rem;
+    font-size: 1.4rem;
+    color: rgb(42, 202, 238);
+  }
+  .box {
+    margin: 0 auto;
+    img {
+      float: left;
+    }
+  }
+}
+</style>

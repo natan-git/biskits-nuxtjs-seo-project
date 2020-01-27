@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="7" viewBox="0 0 11 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #bcbccb;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="11" height="7"/>
+    </clipPath>
+  </defs>
+  <g id="Group_37528" data-name="Group 37528" transform="translate(-169 -360)">
+    <g id="icon_up-arrow-small" class="cls-2" transform="translate(169 360)">
+      <path id="Path_361" data-name="Path 361" class="cls-3" d="M8.1,11.6,2.6,6.041,4.026,4.6,8.1,8.718,12.174,4.6,13.6,6.041Z" transform="translate(13.6 11.6) rotate(180)"/>
+    </g>
+  </g>
+</svg>
